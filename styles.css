@@ -1,0 +1,47 @@
+#name {
+    font: bold 18pt serif;
+    height: 25px;
+    width: 70px;
+    padding: 0.1em;
+    margin: 0em 0em 0.8em 0em;
+}
+span {
+    font: bold 16px sans-serif;
+}
+.border {
+    width: 300px;
+    height: 818px;
+    padding: 1em;
+    margin: 1em 0.5em;
+    border: 5px solid blue;
+    box-shadow: 6px 6px gray;
+    background-color: aqua;
+    border-radius: 10px;
+}
+#infobox {
+    width: 285px;
+    height: 320px;
+    padding: 5px;
+    margin: 1em 0em 1em 0em;
+    border: 3px solid green;
+    line-height: 2;
+    background-color: lightgreen;
+}
+#fact {
+    font: italic 13px cursive;
+    margin: 5px 0.2em 1em 0.2em;
+}
+ul li {
+    list-style: none;
+    font: 13px cursive;
+}
+ul {
+    margin: 0.01em 0.2em 1em -2.35em;
+}
+span {
+    font: bold 10pt sans-serif;
+}
+#description {
+    font: 13px cursive;
+    margin: 5px 0.2em 5px 0.2em;
+}
