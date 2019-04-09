@@ -7,12 +7,13 @@ In order to see the picture, the picture file must be in the same folder as the 
 
 Software Dependencies:
 
-All these files must be present in the same folder.
+All these files must be present in the same folder:
 card.html
 styles.css
 Peety.jpg
 
+The zip folder has al the required contents to run the HTML.
 To run the project:
 
-Make sure all the above files are in the same folder.
+Make sure all the above files are in the same folder, or download the zip file and extract all files.
 Double click 'card.html" and it should show a picture of a bird with some facts and information about the type of bird it is.
