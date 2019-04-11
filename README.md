@@ -8,7 +8,8 @@ This was a simple HTML project that has a picture of an animal, along with some 
 
 <h1>Software Dependencies:</h1>
 
-<h3>All these files must be present in the same folder:</h3>
+<h3>All these files must be present in the same folder:</h3> 
+
 + card
 + styles
 + Peety
