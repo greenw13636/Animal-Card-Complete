@@ -9,9 +9,9 @@ This was a simple HTML project that has a picture of an animal, along with some 
 <h1>Software Dependencies:</h1>
 
 <h3>All these files must be present in the same folder:</h3>
-card.html
-styles.css
-Peety.jpg
++card.html
++styles.css
++Peety.jpg
 
 <h3>The zip folder has all the required contents to run the HTML.</h3>
 To run the project:
