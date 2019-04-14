@@ -1,4 +1,4 @@
-#name {
+.name {
     font: bold 18pt serif;
     height: 25px;
     width: 70px;
@@ -18,7 +18,7 @@ span {
     background-color: aqua;
     border-radius: 10px;
 }
-#infobox {
+.infobox {
     width: 285px;
     height: 320px;
     padding: 5px;
@@ -27,7 +27,7 @@ span {
     line-height: 2;
     background-color: lightgreen;
 }
-#fact {
+.fact {
     font: italic 13px cursive;
     margin: 5px 0.2em 1em 0.2em;
 }
